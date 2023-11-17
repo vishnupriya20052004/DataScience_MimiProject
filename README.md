@@ -1,5 +1,5 @@
 
-# EX NO : 10 DataScience_MimiProject  
+# EX NO : 10 DataScience_MiniProject  
 ## Rainfall Analysis of India
 
 ## DATE : 12/11/2023
